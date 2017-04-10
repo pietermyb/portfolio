@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Data", "Portfolio.Data\Portfolio.Data.csproj", "{BDF2C2A5-20A5-4206-B5A2-E7690231269B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.Model", "Portfolio.Model\Portfolio.Model.csproj", "{C1DA6CAE-98AF-4F04-A0E8-D6963340ECD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portfolio.API", "Portfolio.API\Portfolio.API.csproj", "{5E5F6F4D-DD81-482C-A10E-70B8874408CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Security", "Portfolio.Security\Portfolio.Security.csproj", "{AEAE333A-C1F7-40E3-AC9A-8BAEB40D1D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.XC", "Portfolio.XC\Portfolio.XC.csproj", "{67A4E6F8-0778-433B-B047-7FEFC9EFC947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF2C2A5-20A5-4206-B5A2-E7690231269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF2C2A5-20A5-4206-B5A2-E7690231269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF2C2A5-20A5-4206-B5A2-E7690231269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF2C2A5-20A5-4206-B5A2-E7690231269B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DA6CAE-98AF-4F04-A0E8-D6963340ECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DA6CAE-98AF-4F04-A0E8-D6963340ECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DA6CAE-98AF-4F04-A0E8-D6963340ECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DA6CAE-98AF-4F04-A0E8-D6963340ECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5F6F4D-DD81-482C-A10E-70B8874408CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5F6F4D-DD81-482C-A10E-70B8874408CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5F6F4D-DD81-482C-A10E-70B8874408CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5F6F4D-DD81-482C-A10E-70B8874408CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAE333A-C1F7-40E3-AC9A-8BAEB40D1D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAE333A-C1F7-40E3-AC9A-8BAEB40D1D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAE333A-C1F7-40E3-AC9A-8BAEB40D1D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAE333A-C1F7-40E3-AC9A-8BAEB40D1D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A4E6F8-0778-433B-B047-7FEFC9EFC947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A4E6F8-0778-433B-B047-7FEFC9EFC947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A4E6F8-0778-433B-B047-7FEFC9EFC947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A4E6F8-0778-433B-B047-7FEFC9EFC947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pamyb.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Portfolio.Data\\Portfolio.Data.csproj
+		SccProjectName1 = Portfolio.Data
+		SccLocalPath1 = Portfolio.Data
+		SccProjectUniqueName2 = Portfolio.Model\\Portfolio.Model.csproj
+		SccProjectName2 = Portfolio.Model
+		SccLocalPath2 = Portfolio.Model
+		SccProjectUniqueName3 = Portfolio.API\\Portfolio.API.csproj
+		SccProjectName3 = Portfolio.API
+		SccLocalPath3 = Portfolio.API
+		SccProjectUniqueName4 = Portfolio.Security\\Portfolio.Security.csproj
+		SccProjectName4 = Portfolio.Security
+		SccLocalPath4 = Portfolio.Security
+		SccProjectUniqueName5 = Portfolio.XC\\Portfolio.XC.csproj
+		SccProjectName5 = Portfolio.XC
+		SccLocalPath5 = Portfolio.XC
+	EndGlobalSection
+EndGlobal
